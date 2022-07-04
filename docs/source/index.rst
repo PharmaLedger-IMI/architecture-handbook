@@ -21,6 +21,5 @@ Contents
    conceptual_overview
    architecture
    implementation
-   management
    appendix
    glossary

@@ -1,4 +1,4 @@
-Solution Overview
+Introduction
 =======================
 In the solution overview section, you need to briefly introduce the solution in a couple of paragraphs, 
 describing the functioning of the solution and its different components at a very high level.

@@ -1,4 +1,4 @@
-Business Context
+Target Audience
 ======================
 
 In the business context section, the solution architect needs to provide a high-level overview of the 
