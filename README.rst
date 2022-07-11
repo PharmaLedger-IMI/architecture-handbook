@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
-=======================================
+PLA Architecture Handbook
+==========================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository contains architecture related materials for Pharmaledger related projects.
 
-Read the tutorial here:
+Read the handbook here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://pla-architecture.readthedocs.io/en/latest/
+
