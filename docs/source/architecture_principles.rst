@@ -1,4 +1,4 @@
-Architect Principles
+Architecture Principles
 ====================
 
 Brief about architecture
