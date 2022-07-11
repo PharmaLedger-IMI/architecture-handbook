@@ -3,4 +3,4 @@ Deployment
 
 Brief about deployment details
 
-.. image:: assets/images/ePI_Environments.jpg
+.. image:: ../assets/images/ePI_Environments.jpg
